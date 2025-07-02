@@ -29,13 +29,15 @@ font-style: normal;
 .navbar :hover{
 
     color: #037ffc;
+    background-color: #e6f0ff;
+
     
 }
 
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    padding-left: 20%;
-   color: #003366
+   color: #003366;
 }
 
 .main_img{
