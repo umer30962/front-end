@@ -66,3 +66,38 @@
 // colors.forEach((color ,index) => {
 //   console.log(index , color);
 // });
+
+
+// greet();
+// function greet() {
+//   console.log("Hello!");
+// }
+
+
+// sayhi();
+
+
+
+// const sayhi = function(){
+
+//     console.log("Hi!");
+// }
+
+// function add(a, b) {
+//     return a + b;
+// }
+
+// let result = add(5, 3); // 8
+// console.log(result);
+
+// const multiply = function(a,b) {
+//     return a*b;
+// }
+// console.log(multiply(5,3)); // 15
+
+
+//  const greet = ()=> {
+//   console.log("Hello!");
+// }
+// greet();
+
